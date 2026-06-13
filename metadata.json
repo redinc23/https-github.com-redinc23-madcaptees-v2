@@ -1,0 +1,6 @@
+{
+  "name": "Madcap Tees",
+  "description": "An eccentric custom T-shirt designer and e-commerce platform. Design wacky, quirky tees with typography, graphic stickers, and an AI-powered slogan generator!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
